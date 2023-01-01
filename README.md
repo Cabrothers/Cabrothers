@@ -14,4 +14,4 @@
 
 ## 📫 How to reach me:
 
-- [Discord](https://discord.com) : **Error#0968** (https://discord.com/users/614626304209321985)
+- [Discord](https://discord.com) : **Error404#0968** (https://discord.com/users/614626304209321985)
