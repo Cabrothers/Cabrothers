@@ -1,7 +1,5 @@
 # Welcome ! 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cabrothers&theme=tokyonight&Border=13DD57&Text=999999)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🧠 I’m currently learning:
 
 - Networking
