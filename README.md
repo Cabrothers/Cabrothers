@@ -10,4 +10,4 @@
 
 ## 📫 How to reach me:
 
-- [Discord](https://discord.com) : [**err404code**] (https://discord.com/users/614626304209321985)
+- [Discord](https://discord.com) : [**err404code**](https://discord.com/users/614626304209321985)
