@@ -5,6 +5,6 @@
 - Penetration Testing
 - C / CPP
 
-## 📫 How to reach me:
+## where to reach out:
 
 - [Discord](https://discord.com) : [**err404code**](https://discord.com/users/614626304209321985)
