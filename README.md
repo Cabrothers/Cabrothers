@@ -1,12 +1,9 @@
-# Welcome! 
+# Hi im error404. I code with existential dread
 
-## 🧠 I’m currently learning:
-
+## learning:
 - Machine Learning
 - Penetration Testing
 - C / CPP
-
-[![My Awesome Custom Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Cabrothers?theme=tokyonight&Ring=333333&Border=13DD57&Text=999999)](https://git.io/awesome-stats-card)
 
 ## 📫 How to reach me:
 
